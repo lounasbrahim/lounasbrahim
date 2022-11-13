@@ -10,10 +10,8 @@
 # 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning Next13
-- 👯 I’m looking for ways to contribute meaningfully to [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 👯 2022 Goals: Contribute more to [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - 💞️ Lets collaborate on Full stack JS projects
-- 💬 Ask me about **Web development**
-- 🏆 2022 Goals: Contribute more to Open Source Projects.
 - 📫 How to reach me **lounas1994@gmail.com**
 
 <br />
