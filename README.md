@@ -32,7 +32,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href= "https://jquery.com/"><img src = "https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
-    <a href = "https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <a href = "https://www.dockwidth="50%"er.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <a href = "https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/>
      
 
@@ -40,8 +40,9 @@
 <br />
  
 # 📊 My Github Stats
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brahim Lounas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lounasbrahim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-<img align="center" alt="🔥 Ibrahim Lounas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lounasbrahim&private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
+<div>
+<img align="left" width="55%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brahim Lounas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lounasbrahim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/><img  width="40%" align="left" alt="🔥 Ibrahim Lounas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lounasbrahim&private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
       
 
