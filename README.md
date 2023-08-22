@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋!</h1>
-<h3 align="center">Hi there 🙋‍ , I'm Brahim Lounas, a Full Stack developer.</h3>
+<h3 align="center">Hi there 🙋‍ , I'm Brahim Lounas, a Full Stack |)eveloper.</h3>
 
 
 
